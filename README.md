@@ -1,3 +1,3 @@
 # new-repo
 Learning git
-Hello everyone!
+Hello everyone
